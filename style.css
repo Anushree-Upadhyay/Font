@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-image: url('https://www.monotype.com/sites/monotype/files/styles/width_910/public/2021-07/MT_Helvetican_Now_Variable_25_35_9.jpg?itok=5ndvA0qJ');
+}
+
+canvas{
+    border: solid rgb(150, 150, 150) 10px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.heading{
+width: 100%;
+margin-top: 0;
+font-size: 25px;
+}
+
+.note {
+    width: 100%;
+    margin-top: 0;
+}
